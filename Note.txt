@@ -1,0 +1,14 @@
+for array: s.length
+for string: s.length()
+
+
+class only should in the return type not class[]
+eg:- Movie not Movie[]
+look at above example
+
+
+calling constructor or creating new object new is compulsory
+eg:- m[i]=new Movie(name,type,genre,budget);
+
+char ch = sc.nextLine().charAt(0);
+intput of single character
